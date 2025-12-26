@@ -1,6 +1,6 @@
 # Insertion Sort Project
 
-This repository was created as part of the Kodluyoruz Data Analysis training.
+This repository was created as part of the Patika.Dev Data Analysis training.
 The purpose of this project is to understand basic sorting algorithms.
 
 ## Content
